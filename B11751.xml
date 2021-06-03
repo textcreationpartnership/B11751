@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A iournall or, historicall relation of all the principall matters which haue passed in the present siege of Breda from day to day With a description both of the manner of Spinolaes siege, and the workes of defence in the towne. ... Translated out of the Low-Dutch copie, printed at Breda, and at the Hage. 1625.</title>
+         </titleStmt>
+         <extent>Approx. 37KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B11751</idno><idno type="EEBO-CITATION">99840401</idno>
+  <idno type="VID">177606</idno>
+  <idno type="EEBO-PROQUEST">2248565838</idno>
+  <idno type="STC">STC 3595</idno>
+  <idno type="STC">ESTC S104668</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99840401e"/>
+            <note>(EEBO-TCP ; phase 2, no. B11751)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177606)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1091:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A iournall or, historicall relation of all the principall matters which haue passed in the present siege of Breda from day to day With a description both of the manner of Spinolaes siege, and the workes of defence in the towne. ... Translated out of the Low-Dutch copie, printed at Breda, and at the Hage. 1625.</title>
+               </titleStmt>
+               <extent>[2], 25, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>For Mercurius Britannicus,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1625.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dutch original not traced.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Breda (Netherlands) --  History --  Siege, 1624-1625 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177606:1"/>
+            <p>A IOVRNALL OR, HISTORICALL RELATION of all the principall matters which haue passed in the present siege of Breda from day to day.</p>
+            <p>With a description both of the manner of <hi>Spinolaes</hi> siege, and the workes of defence in the Towne.</p>
+            <p>As also the Exployts, Assaults, Encounters, Skirmi<g ref="char:EOLhyphen"/>shes, Vnderminings, Sallies, or other things which haue happened since the be<g ref="char:EOLhyphen"/>ginning of the Siege.</p>
+            <p>Translated out of the Low Dutch Copie, printed at Breda, and at the Hage▪ 1625.</p>
+            <p>Printed at London for <hi>Mercurius Britan<g ref="char:EOLhyphen"/>nicus.</hi> 1625.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:177606:2"/>
+            <pb n="1" facs="tcp:177606:2"/>
+            <head>A DESCRIPTION OF THE SIEGE OF BREDA.</head>
+            <p>SEeing that the Enemy made in the Moneth of <hi>Iu<g ref="char:EOLhyphen"/>tus</hi> great warlike preparations to come into the field, and had appointed his rendezvous at Ballart about the Towne of Lier, hauing laide a bridge before the Cittie of Antwerpe vpon the Riuer of the Shelde, at which time the Hay was already gathered into the Barnes, and the Rie began to grow ripe; the Prince of Orange strengthened all the garrison Townes and Ca<g ref="char:EOLhyphen"/>stles which lie vpon the Frontiers of the Dominions of the States, and send a Patent to the Gouernour <hi>Iusti<g ref="char:EOLhyphen"/>uus</hi> of Nassaw, by the meanes of which he might com<g ref="char:EOLhyphen"/>mand yet fiue Companies which lay in Garrison at Geertruydenberg to come to the Towne of Breda as they did afterwards; namely, on the 22. of the Moneth of <hi>Iulius</hi> the Marqnesse <hi>Spinola</hi> being then yet at Turn<g ref="char:EOLhyphen"/>hout, so that the Towne was furnished with 30. Com<g ref="char:EOLhyphen"/>panies of foot, and fiue troups of horse.</p>
+            <p>On the 23. of the same Moneth arriued there like<g ref="char:EOLhyphen"/>wise yet 15. Companies that came out of Holland and were landed at Swalew, the Guard of the Prince of O<g ref="char:EOLhyphen"/>range being one of them, as likewise seuerall Compa<g ref="char:EOLhyphen"/>nies
+<pb n="2" facs="tcp:177606:3"/> of Colonels; namely, Sir <hi>Charles Morgan,</hi> and of the Colonels <hi>Haultri<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> and <hi>Leckeren.</hi>
+            </p>
+            <p>On the foure and twentieth of this Moneth came the Marquesse <hi>Spinola</hi> in the Barronnie of Breda, and arri<g ref="char:EOLhyphen"/>ued at Barle and Alphen, making shew as if hee would directly march towards the Towne of Breda: The Gouernour <hi>Iustinus</hi> of Nassaw, sent on the same day after dinner time three troupes of Horse towards Geertruydenberg, thinking it not fit to keepe so ma<g ref="char:EOLhyphen"/>ny horses in a Towne that was likely to be besieged.</p>
+            <p>On the fiue and twentieth of this Moneth marched the Marquesse <hi>Spinola</hi> with his Armie towards Cham, which is a Village that lieth on the right way which leadeth towards this Towne of Breda, and tur<g ref="char:EOLhyphen"/>ning thence at his left hand, hee went towards the Village of Gilsen, and beate there his Campe downe in the fields, notwithstanding that hee knew that there was a strong Garrison in the Towne, seeing that he was preuented to execute his other enterprises which he intended to doe. All the Colonels that were then in the Towne had presently vpon his approaching their quarters appointed vnto them.</p>
+            <p>The Lord of Lockeren was with his Low-Countri<g ref="char:EOLhyphen"/>men and some Scottishmen inquartered on the west<g ref="char:EOLhyphen"/>side
+<pb n="3" facs="tcp:177606:3"/> of the Towne; the Lord Haulteriue had his quar<g ref="char:EOLhyphen"/>ter appointed vnto him on the South-side of the towne and stretcheth from the gate of Ginnekens (which lea<g ref="char:EOLhyphen"/>deth to that Village) to the Fort of <hi>Mauritius.</hi>
+            </p>
+            <p>And Colonell <hi>Morgan</hi> was enquartered with his English forces on the East-side of the Towne. There was likewise presently retrenchment made of three points, before euery one of the fiue horne-workes: but the points which were raised in the middle of them were longer then the other that they might be cut off if occasion should serue.</p>
+            <p>The Spanish Camp continued at Gilsen for the space of 33. dayes, tarrying there from the 25. of Iuly, vntill the 26. of August, at which time the hottest dog-dayes were, and the enemies were in great want of water: They fetht their prouision for horses out of the village which lay hereabout, and got in the beginning from the Towne of Lier by the way of Turnhout such store of Bread, Meale, Beere, that great store of their muni<g ref="char:EOLhyphen"/>tion Bread being become musty they were compelled to bury it to ease themselues of the noysome smell which came out of it: But afterwards the Con<g ref="char:EOLhyphen"/>voyes tarrying sometimes too long away, the Spa<g ref="char:EOLhyphen"/>nish Campe was in great want, and many of the ene<g ref="char:EOLhyphen"/>mies souldiers did runne both to this Towne and to Holland, the most part of them were Italians, and were shipped to goe towards their owne coun<g ref="char:EOLhyphen"/>treys after they had gotten from the Commissio<g ref="char:EOLhyphen"/>ners of the States some money for them to tra<g ref="char:EOLhyphen"/>uell withall.</p>
+            <pb n="4" facs="tcp:177606:4"/>
+            <p>The Corne being about this time growne ripe, wee receiued not onely great store of it in the towne but also many peeces of Ordnance, besides a great quantitie of munition, and other necessary prouision.</p>
+            <p>On the foureteenth of August went Count <hi>Iohn</hi> of Nassaw, and the Lord of Grobbendonck with some troupes of horse &amp; foot from Gilse towards Shetoger-bosh, and hauing thence marcht a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> farre as the Towne of Graue, they came againe to Loon on the sixe and twentieth day of August.</p>
+            <p>The next night was the Spanish Campe remoued from Gilsen, and brought to Ginnekens before Breda, and the Marquesse <hi>Spinola</hi> hauing beset the water Mill which lieth betweene Ginnekens and the Towne with some Souldiers, he caused a Skonce to be made about it, and made presently his head-quarter at Ginnekens; the Colonell <hi>Baglioni</hi> hauing quartered his forces at<g ref="char:EOLunhyphen"/>ter Heyden where he tooke some Barkes, and a Shallop of one of our men of Warre, being not able to escape by reason of a contrary wind and calme weather: hee forced our men which were in them to forsake the Barkes and Shallop by the meanes of two peeces of Ordnance which hee had planted neere to the Riuer of Marke, and in such manner vpon them, that they seeing no meane to saue their Vessels, landed themselues on the side of the Hage to saue themselues, leauing the Barkes and Shal<g ref="char:EOLhyphen"/>lops
+<pb n="5" facs="tcp:177606:4"/> with their loadings at the disposition of the E<g ref="char:EOLhyphen"/>nemies.</p>
+            <p>The Gouernour of this Towne <hi>Iustinus</hi> of Nassaw, caused on the same Euening diuers houses to bee fired, seeing they stood too neere to it, and e<g ref="char:EOLhyphen"/>specially such as were built on these following places; namely, the Sand-berg, Mole-gracht, and Louensdike: the first signifieth the Sand-hill, the second the Mill-ditch, the third the dike at Louen.</p>
+            <p>And on the last day of August was likewise burnt the Mill which stood short on the Sand-hill.</p>
+            <p>On the sixth of September were likewise fired the Mannour of Zuylen, besides diuers other houses that were built on the Heath of Buersteed, and on the Low-street neere the Hadyck.</p>
+            <p>On the fifteenth and eighteenth were againe some houses burnt, both on the Molen-gracht, Louensdyk, and at Tetteringen.</p>
+            <p>And on the third of October there were yet some
+<pb n="6" facs="tcp:177606:5"/> houses fired that stood in a place which is called the Emer, the chiefe Commaunders of this Towne taking more consideration (as is fitting) to the ge<g ref="char:EOLhyphen"/>nerall good, then to the damage and griefe of parti<g ref="char:EOLhyphen"/>cular persons.</p>
+            <p>On the eight and twentieth of August was not one<g ref="char:EOLhyphen"/>ly the wood of the Prince of Orange (which is called t'Belerenbosch) cut off: but likewise other trees that were planted about the Towne, and were altogether brought into it.</p>
+            <p>On the first day of September, caused our Gouer<g ref="char:EOLhyphen"/>nour and the rest of the Councell of warre which is in this Towne, a Skonce to bee raised about the house of recreation of the Prince of Orange, and the Hill which is called Belerenbosch, to preuent the taking of that place, seeing that the Enemies might thence command with their Ordnrnce which lie before the Castle of this Towne.</p>
+            <p>And on the same day was the Mill likewise pul<g ref="char:EOLhyphen"/>led down that stood without the gate of Hadyke, be<g ref="char:EOLhyphen"/>ing commonly called the Emperours Mill; and on the same place was also a Skonce raised. There were like<g ref="char:EOLhyphen"/>wise about the same time diuers horne-workes made close to the Bull-workes of spite to <hi>Mansfield, Mauritius, Nassaw</hi> and <hi>Lambrecht</hi> to preuent the approaching of our Enemies, seeing that our great horne-workes lay now so farre one from ano<g ref="char:EOLhyphen"/>ther</p>
+            <pb n="7" facs="tcp:177606:5"/>
+            <p>On the 6. of September came the Enemies in the village which is called ter Hage, and the Count of <hi>Isenburg</hi> taking there his Quarter, fortified him from that place vnto the village of Eemer, and laid against the place which is called the great wood a bridge which he laid vpon boates, raised two Sconces on each side of the Riuer, and caused not onely both aboue and below the bridge, piles to be beaten in the water, but appointed also some to make the waye high which runneth through the lowe field where lyeth his Quarter.</p>
+            <p>The Magistrates of this towne did likewise in the meane time their best endeauours, lodged their strong Garrison in seuerall houses of our Burgers, and taxing all manner of victualles, commanded that they should not be sould at any higher rate then they were bought before the siedge of this towne was made. A quarter of Rye is sould 5. Guilders, the Wheate for 8. Guilders, the French Wheate for 4. Guilders, the Barlie for 3. Guil<g ref="char:EOLhyphen"/>ders, and 15. Stuyuers, the long Oates at 3. Guil<g ref="char:EOLhyphen"/>ders, the short Oates at 3. Guilders and 10. Stuy<g ref="char:EOLhyphen"/>uers, a bagge with salt for 4. Guilders, a pickled Hering 7. deuts, a pound of stockfish for 3. stuy<g ref="char:EOLhyphen"/>uers and halfe, a pound of cheese of ter Gow for 3. stuyuers, the new cheese of Edam at 3. stuyuers and the old at 4. stuyuers for euery pound, the greene cheese at 2. stuyuers and a halfe, barrell but<g ref="char:EOLhyphen"/>ter at 6. stuyuers and 2 deuts the pound, the quart of Oyle of Turneps-seed for 8. stuyuers and a halfe,
+<pb n="8" facs="tcp:177606:6"/> the quart of salet Oyle for 24. stuyuers, a pound of Candels for 6. stuyuers, a pound of Beefe for 3. stuyuers, and 3. stuyuers and a halfe for the best peeces. Although there haue bin found some Bur<g ref="char:EOLhyphen"/>gers which for their priuate gaine sould some vi<g ref="char:EOLhyphen"/>ctualles at higher rates, they durst not afterwards venture againe, being cōpelled to paie a fine by the order of the Magistrates which condemned them in it. The Rye was neuer sould dearer from the be<g ref="char:EOLhyphen"/>ginning of this siedge: and when flesh, butter, and cheese begunne to grow seant, we vsed here oyle, sirrop &amp; hunny in lieu of them: the Magistrates ha<g ref="char:EOLhyphen"/>uing set them at a reasonable price. Some dayes in the weeke our Fishermen fish in the ditches of this Towne, and get great store of fish, and especially a great number of Eeeles, and bring them to the market, to the great contentment of the Garrison and the Burgers of this towne.</p>
+            <p>About this time there was consented that Sr. <hi>Iohn Aerssen</hi> Knight and Drost of Breda, should ap<g ref="char:EOLhyphen"/>peare amongst the rest of the Counsell of Warre of this towne, being Colonell of the Burgers, and haue there his Seate and voyce.</p>
+            <p>Masters <hi>Roeloffe Bax,</hi> and <hi>Eustatius Surmonts,</hi> which are Aldermen of this towne, and Reccauers of the Imposts and Licences of the States, hauing order and authority from the Counsell of the Vni<g ref="char:EOLhyphen"/>ted Prouinces, to leauie mony vpon Bond for to paye the Souldiers, and other charges of raising of new workes, or making new reparations: They
+<pb n="9" facs="tcp:177606:6"/> quite themselues very well and vsing the best meanes they could doe to accomplish their charge: they caused the richer sorte of the Burgers to come in the Town house; which being likewise by good reasons perswaded by the rest of the Magistrates, lent good summes of money vnto them, in the name of the States Generall: such which had no money to spare, but onely aboundance of corne, either of their owne or of others that had brought it into the towne to saue it there, they sould it, and lent likewise the moneys proceeding thence to them, for the vse of the Vnited Prouinces. And to finde more plenty of siluer and gold, the Magi<g ref="char:EOLhyphen"/>strates set many peeces vpon a price (that was not valewed by the last Proclamation which the States Generall made about the coyne) and marked them with a small stamp, being lent to the Land. By those meanes haue now for the space of 4. months beene payed, both the Souldiers and such which take the Fortifications in hand, to the great con<g ref="char:EOLhyphen"/>tentement and admiration of euery one.</p>
+            <p>The Pest encreasing daily, such Souldiers as were sicke of it, were presently sent to the Pest<g ref="char:EOLhyphen"/>house of the towne, where they wanted neither meate, Phisicke, nor spirituall consolation and comfort.</p>
+            <p>The Preachers of this towne haue at the request of the Magistrates made two Sermons more euery weeke then they were vsed to doe before the siedge, and read some comfortable passages of the Scrip<g ref="char:EOLhyphen"/>ture
+<pb n="10" facs="tcp:177606:7"/> to comfort the common people, and exhorte them to the amendment of their liues: and serious and deuoute prayers to the Almightie.</p>
+            <p>The last of August went some Souldiers of the Quarter of the Lowe Countrie men in the night time, towards Boymeer, and hauing crost the Riuer of Weere-reyse; they expelled the Enemies out of the Gardens of the newe Cloister, and kild some of them the foote of the Enemies desired their horse to staye and succour them, but they would not, and went very swiftly away with foure legges, where-vpon our men retreated likewise when they had fired those Gardens.</p>
+            <p>On the 7. of September, rod Mr. <hi>Bergaine</hi> with his Companie of horse towards the village of the Hage, and surprised there a Corps-de-guarde of the Enemies, slue and tooke many of them: there was a Troupe of the Enemies horse not farre from this Corps-de-guarde, but they neuer stirred, and it may be that they thought themselues not strong enough, or that otherwise they saw not our horse.</p>
+            <p>On the 9. of September very early in the mor<g ref="char:EOLhyphen"/>ning, went some 600. men and 2. Troupes of horse with some field peeces, to make an enterprise vpon the Quarter of ter Hage; but the Enemies ha<g ref="char:EOLhyphen"/>uing receaued notice of our design, they laid them<g ref="char:EOLhyphen"/>selues in ambuscade, and slue with musket shot the Captaine of the Guard of the Prince of <hi>Orange,</hi> when hee was turning himselfe to send some Musketiers against the Enemies: his armour was
+<pb n="11" facs="tcp:177606:7"/> carried behind him, if he had put it on that shot could not haue offended him: he reported at his latter end, that he was ashamed to marche in his armour, seing there weresome Frenchmen in his Company that carryed none.</p>
+            <p>The 19. of this month resolued our Counsell of Warre, that the Lord of <hi>Lockeren</hi> should send out of his Quarter two of his Companies to the Colonels <hi>Hauterive</hi> and <hi>Morgan.</hi> And on the same day the Burgers vndertooke to watch and ward the walles and Bulwarkes which are round about this towne, to ease the Souldiers seing that they were diminished, many of them being runne away and deceased by sickenesse, and were to defend the gates and outworkes. The Burgers did this very willingly and with a good courage, and the an<g ref="char:EOLhyphen"/>tient Captaines themselnes watcht euery fourth night, and the Gentlemen of the Companies them<g ref="char:EOLhyphen"/>selues stood Sentinels, not desiring to be excused in such an occasion of necessitle.</p>
+            <p>The Enemie strengthened in the meane time all his workes, and spared neither wood nor bauins, fin<g ref="char:EOLhyphen"/>ding great quantitie of them; neuerthelesse, hee came not nearer to the towne, nor to the outworks, &amp; raised in a place which is called the <hi>Vutcht;</hi> some Sconces about the 20. of September.</p>
+            <p>The Prince of <hi>Poland</hi> being come into the Camp of the Marquesse <hi>Spinola,</hi> hee caused many of his Peeces to be mounted in his Quarter of <hi>Ginnikens,</hi> and hauing made a great smoake, that the Peices
+<pb n="12" facs="tcp:177606:8"/> might not be seene, he discharged in the morning about eight of the clocke some Pieces, without v<g ref="char:EOLhyphen"/>sing any bullets, shooting out of the Campe to<g ref="char:EOLhyphen"/>wards the fields, and not the towne; but in the e<g ref="char:EOLhyphen"/>uening, about eight of the clocke, when there was an Eclipse in the full Moone, he shot three vollies against the town, which amounted to 80. shottes. His Peices being planted low vpon the ground, the most part of the Iron bullets which he vsed, flew o<g ref="char:EOLhyphen"/>uer the towne, so that but some roufes and walles of the houses of the towne were hurt, to no great purpose and effect.</p>
+            <p>On the next day, being the 27. of this month, the Marques <hi>Spinola</hi> viewed all his men in the presence of the Prince of Poland, and about eleuen of the clocke, the Musketeers made three vollies with their shot, and with 28. Peices of Ordinance, which were in one place, was the like done; but 7. other Peices that were elsewhere, were not discharged.</p>
+            <p>The most part of the Bullets did waigh either 12. or 24. pounds, besides some few that were heauier.</p>
+            <p>Some of them fell downe in the streetes, some on the Market and Gardens, the most part flew o<g ref="char:EOLhyphen"/>uer the towne, so that there was but few that did any hurt to the houses of it. With one shot was a corner of the stares of the Steeple hurt, &amp; 6. other lighted vpō the Church, but they did but little hurt to it. And it is to be maruailed at, that through the meere mercy of the Almighty, with so many shots as the enemies made in the space of two daies, there was no body hurt or slaine, either in the towne or
+<pb n="13" facs="tcp:177606:8"/> in the outworks.</p>
+            <p>About the same time, there were 50. Cannon<g ref="char:EOLhyphen"/>shot, made vppon the Enemies, to answere their greeting.</p>
+            <p>Euen in the same time, we receaued here tidings in the town, how that Count <hi>Hemy Vandenberg,</hi> was come in the Campe of the Enemies, both with ma<g ref="char:EOLhyphen"/>ny horse, and foote, and quartered them at <hi>Tette<g ref="char:EOLhyphen"/>ringen.</hi>
+            </p>
+            <p>On the 27. &amp; 28. towards night time, receiued the Gouernor of <hi>Breda</hi> 2. Letters of the same substance and contents, being both signed at <hi>Ramsdonk,</hi> on the 26. by the Prince of <hi>Orange,</hi> to let him know, how that he was come in the <hi>Longhstrate,</hi> and caused about <hi>Gertruidenberg</hi> a Bridge to be laied to martch ouer it with his forces.</p>
+            <p>The Enemies hauing learned that the Prince of <hi>Orange</hi> was drawing neare, they caused the most part of their Ordinance to be carried towards <hi>Tet<g ref="char:EOLhyphen"/>teringen</hi> &amp; the Parke.</p>
+            <p>Seeing that the Malt, and such graines as they brew withall, were much deminished, the Magi<g ref="char:EOLhyphen"/>strates this of town cōmanded that none shold af<g ref="char:EOLhyphen"/>terwards brew any Beare at any higher rate then 3. Gilders, and that the pot of it should bee solde for a stiuer and two duyts.</p>
+            <p>Vpon the 28. of this month, was here forbidden that the Belles should not be rung at the time of a<g ref="char:EOLhyphen"/>ny Buriall.</p>
+            <p>On the 1. of October ceased the Impositions and assizes which were laid vpon Victuals, drinke,
+<pb n="14" facs="tcp:177606:9"/> and such other thinges as serue to nourish mens bodies.</p>
+            <p>At the same day we sawe here from our great Steeple, that the Armie of the Prince of <hi>Orange</hi> martcht ouer the Bridge, that was laied at <hi>Gertrui<g ref="char:EOLhyphen"/>denberg,</hi> and that the Prince of <hi>Orange</hi> set it after<g ref="char:EOLhyphen"/>wards downe at <hi>Meede</hi> and <hi>Stuyu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sand.</hi>
+            </p>
+            <p>And we vnderstood also asmuch by two Messen<g ref="char:EOLhyphen"/>gers that came the same night in this towne.</p>
+            <p>The Gouernor, diuers Collonels, and Inginers, went about the same time out of this town, to view the small Parke, which was vntil that time warded by our horse, and to consult whether it was fit and conuenient to fortifie it, and prouide it with Ordi<g ref="char:EOLhyphen"/>nance to shoote thence in the great Parke, and vp<g ref="char:EOLhyphen"/>pō the Bridge of the enemies. But they found great difficulties in the matter, and deferr'd it therefore till further consideration, and oportunity might be taken.</p>
+            <p>The Enemies sent presently the most part of their horse and foote towards the <hi>Meerberg,</hi> and the Gar<g ref="char:EOLhyphen"/>den of an Abbot, who liued there in former time, and stood for the space of some dayes in battaile array, conceauing that the Prince of <hi>Orange</hi> would come to assault them.</p>
+            <p>On the 2. of October, begun the Enemies to raise two sconces, one betwixt <hi>Tetteringen</hi> and <hi>Ter<g ref="char:EOLhyphen"/>heyden,</hi> and the other at <hi>Gageldonek:</hi> They laboured likewise very hard to strengthen his Fortes and Trenches of thier Campe.</p>
+            <pb n="15" facs="tcp:177606:9"/>
+            <p>The Prince of <hi>Orange</hi> intrenched his Campe very strongly about <hi>Meede,</hi> and compast it round about with strong ramparts, &amp; planted vpon the dike of <hi>Faes Martens.</hi> 12. Peices of Ordinance to defend that passage, and vppon the Sands 7. Peices to de<g ref="char:EOLhyphen"/>fend the foote that laye there: Moreouer, he plan<g ref="char:EOLhyphen"/>ted yet 12. Peices vppon the way of <hi>Houten,</hi> to se<g ref="char:EOLhyphen"/>cure that passage.</p>
+            <p>The Garrison of <hi>Breda</hi> perceauing that the Mar<g ref="char:EOLhyphen"/>quesse <hi>Spinola</hi> had much weakened his Quarters by taking so many men out of them, stroke an alarum on the 4. of October, in the night time, and that not onely before one, but at all the gates of the towne, because the Enemies should not come to succour one another: And some souldiers of the French Quarter did runne as farre as <hi>Ginneken,</hi> and pulled some of their Palisados out of the workes of the E<g ref="char:EOLhyphen"/>nemies.</p>
+            <p>At their returne, they reported that if they had beene strong, that they might easily haue fired the Spanish Quarter which is at Ginneken, seing there were then but few Souldiers left, but they being in such a small number durst not goe further for feare of the horse of the Enemies.</p>
+            <p>On the 5. of October tooke some foote of the Marquis <hi>Spinola</hi> some of our Cowes out of their Pa<g ref="char:EOLhyphen"/>sture, but our horse which warded the same daye the small Parke, ouer-tooke them and got the Cowes againe, taking also two of the Enemies as prisoners.</p>
+            <pb n="16" facs="tcp:177606:10"/>
+            <p>On the 8. of this month sent the Lord of <hi>Lockeren</hi> many Waggons out of his Quarter towards Zuy<g ref="char:EOLhyphen"/>len to fetch thence wood for his Corps-de guarde: but the Enemies opposed themselues against him, and skirmished a great while with his men: our Ordinance played in the meane time from our walles vpon the Enemies, vntill such time as our powder being fired, by which meanes there were about 20. of our men annoyed.</p>
+            <p>On the 9. of this month was there a generall daye of fasting, and prayers throughout all these Vni<g ref="char:EOLhyphen"/>ted Pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uinces, by the expresse command of the States Generall.</p>
+            <p>On the 13. of this month, there blewe a boiste<g ref="char:EOLhyphen"/>rous South-west wind, and there fell afterwards in the space of three dayes such store of raine downe, that it couered with water, both the Vucht and the Pastures about ter Hage. On the same day were likewise both in the Camp of the Prince of <hi>Orange,</hi> and in the Campe of the Mar<g ref="char:EOLhyphen"/>quis <hi>Spinola,</hi> many Cabins turned topsie-tur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie by the violence of the winde, and afterwards were al<g ref="char:EOLhyphen"/>so many fields drowned, both about Geertruyden<g ref="char:EOLhyphen"/>bergh and Meede, to the great discommoditie and hinderance of the Campe of the Prince of <hi>Orange.</hi>
+            </p>
+            <p>On the 16. of this month was here concluded in the Counsell of Warre, that the Garrison should watch but euery third night, whereas it was vsed to watch euery second night.</p>
+            <p>On the 18. of this month the water was growne
+<pb n="17" facs="tcp:177606:10"/> verie high about this Towne (by reason not onely of the rayne, but likewise by the meanes of the high floods) and did flow ouersome of our bridges that were lately made to goe out of our Counter-scarpe to our out-workes and Quarters, so that we were compelled to drawe out of our ditches some of the water with our water mils.</p>
+            <p>On the 19. of this month was here a resolution made, that euery weeke there should a certaine number of Quarters of Rye be sould and baked.</p>
+            <p>On the 23. of this month remoued the Prince of <hi>Orange</hi> his Campe from the village of Meede, and marcht with the greatest part of his men towards the lower Swalewe, keeping a strong Arrior<g ref="char:EOLhyphen"/>guard, and all his Souldiers in a good order, which made the 2. Troupes of the Enemies horse (that intended to set vpon some of our hindermost) to retreate. But some of our Victuallers that were not remoued according to the order giuen vnto them, were surprised by the Enemies, and not onely their goods, but they also themselues taken. The Prince of <hi>Ornage</hi> hauing past the Towne of Seuenbergen, caused abridge to be layd ouer the Riuer to goe thence to a place called the Ouden-bosh, from whence he went to Rosendale, and beat his Camp there downe.</p>
+            <p>Count <hi>Henry</hi> of <hi>Nassaw</hi> marcht with the remain<g ref="char:EOLhyphen"/>der of the Forces of the States ouer the bridge which was layed neere Geertruydenberg, and Quartered in the passage called the lang strate at Waelwycke and other places there about.</p>
+            <pb n="18" facs="tcp:177606:11"/>
+            <p>On the 25. of this month went of our horse that laye here in Garison as farre as a place whch is cal<g ref="char:EOLhyphen"/>led Eemer, and inticing the Spanish to come out, they retreated towards the Towne, and 30. Spa<g ref="char:EOLhyphen"/>nish horse pursuing them thereupon, many of them were either slaine or hurt by our Muskettiers that laye in an ambuscado.</p>
+            <p>On the 26. of this month rose there a great quar<g ref="char:EOLhyphen"/>rell in the Spanish Camp, betwixt the horse of the Marquis <hi>Spinola,</hi> and them of Count <hi>Iohn</hi> of <hi>Nassaw,</hi> striuing together about the prouander for their horses: and the Marquis <hi>Spinola</hi> caused there-vpon two of them presently to be hang'd with their boots and spurs on their feete.</p>
+            <p>On the 28. of this mōth, shot the Enemie a Canon shot out of his Quarter of ter Hage in the Towne.</p>
+            <p>On the 29. of this month there were many of our peeces of Ordinance discharged against the bake-houses of the Enemies.</p>
+            <p>Both on the last day of October, and on the 1. of Nouember remooued the Enemies many of his Souldiers, and sent them both in the day and night time from ter Hayden to ter Hage, and from Tet<g ref="char:EOLhyphen"/>teringen to Ginneken.</p>
+            <p>On the fift of Nouember tooke some of our Garrison a Sconce of the Enemies, that was raised vpon a place which is called the Steen-acker, and hauing there slaine two Spanish Souldiers tooke 4. others prisoners.</p>
+            <p>On the next following dayes, there were diuers skirmishes made about the Hadyke, betwixt our
+<pb n="19" facs="tcp:177606:11"/> men and the Spanish, and we got great store of wood in this Towne, in despite of our Enemies.</p>
+            <p>On the 8. of this month, tooke the English af<g ref="char:EOLhyphen"/>ter dinner time, when it was yet very light, a little Sconce of the Enemies, which they had raised neere Tetteringen.</p>
+            <p>On the same day beganne the Enemies to ap<g ref="char:EOLhyphen"/>proach towards the two Bulwarkes of <hi>Nassaw</hi> and <hi>Martini,</hi> which lye neere the French Quarter, and caused there some Trauerses and Sconces to be raised: the like they did likewise about Zuylen comming neerer to the Quarter of the Lowe-Countrie-men, whereupon they sallyed many times forth, skirmished with the Spanish, and played fiercely with their Ordinance vpon them. Many were at that time of opinion, that the Ene<g ref="char:EOLhyphen"/>mies would both hinder vs to send our beasts a<g ref="char:EOLhyphen"/>broad into the fields, to fetch Turneps and other things which grow in the Gardens and fields, and that he intended likewise to make his circuit round about the Towne, that he might besiedge it with few men, and keepe them of the Towne in awe: By reason of the continuall rayne that fell downe ma<g ref="char:EOLhyphen"/>ny dayes before, the Enemies had much to doe to get any Conuoyes in their Campe.</p>
+            <p>On the 20. of this month marcht Count <hi>Henry</hi> of <hi>Nassaw</hi> out of the Enemies Camp, and went to<g ref="char:EOLhyphen"/>wards Baerle, hauing taken 10. peeces of Ordi<g ref="char:EOLhyphen"/>nance with him.</p>
+            <p>On the 22. of this month went some Musketiers
+<pb n="20" facs="tcp:177606:12"/> of the Quarter of the Low-Countrie men about the euening abroad, to raze a little Sconce which the Enemies had raised about Zuylen not farre from their Hornworke, they slue some of them that warded it, but seeing that it was made strong both with wood and bauins, they could not raze it quite downe, and were compelled to retreate sud<g ref="char:EOLhyphen"/>denly, the Enemies comming from diuers places to fasten vpon them: but our Ordinance which lay ready, both vpon the point or corner of the Ha<g ref="char:EOLhyphen"/>dyke, and on the Bulwarke of <hi>Lambertus,</hi> as like<g ref="char:EOLhyphen"/>wise vpon the Horneworke was made ready, and played very cruelly vpon the Enemies that came very strong towards the Towne, and we slue many of them, by reason of the light which our Granats and fire-balles gaue in the Camp of the Ene<g ref="char:EOLhyphen"/>mies, being shot into it by our murthering pee<g ref="char:EOLhyphen"/>ces, and burnt there a great while as Torches, so that we might easily perceaue where they went. Neuerthelesse some of them came very neere to our workes, but 200. of our foote that laye in an ambush, saluted them in such a manner with their Muskets, that 60. of them were presently slayne, where-vpon the remainder saued themselues by flight.</p>
+            <p>On the sameday gaue the Marquis <hi>Spinola</hi> no<g ref="char:EOLhyphen"/>tice, that he would send backe againe to the Towne all such Souldiers as should come out of it to run to him, and desired that the Gouernour of Breda would doe the like with his men that should come
+<pb n="21" facs="tcp:177606:12"/> to him: And he gaue likewise to vnderstand that he would hang all them, which were either going in or out of the Towne, and should climbe ouer his workes: and there-vpon he would not suffer the Quarter Master of the Troupe of horse of Mr. <hi>Ber<g ref="char:EOLhyphen"/>gaine</hi> should be released or ransommed, he being taken after he had giuen notice of his resolution, and caused two Husband-men that were going to the Towne to be hang'd.</p>
+            <p>On the 23. of this month about the euening, sal<g ref="char:EOLhyphen"/>lyed some Soldiers of the French Quarter forth, and tooke great store of fagots from the Enemies (which had brought them on a place which is cal<g ref="char:EOLhyphen"/>led the Sand-berg, and lyeth not farre from the Molen-berg, thinking to raise there a high worke or Batterie) and brought them into our out<g ref="char:EOLhyphen"/>workes.</p>
+            <p>On the 24. of this month, did our Magistrates command that onely the Brewers and Bakers should bake and brewe, and the other Burgers should buy their bread and beere from them, to the intent they might the better and sooner learne, how much corne and malte there was weekely consumed.</p>
+            <p>On the 25. of this month there was againe, an in<g ref="char:EOLhyphen"/>uentarie made of all the graines which were in the priuate houses of the Burgers, and they were com<g ref="char:EOLhyphen"/>manded not to se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l or diminish any without leaue and permission of the Magistrates.</p>
+            <p>On the same day we beganne to sloppe againe
+<pb n="22" facs="tcp:177606:13"/> aboue the Towne both the Riuers of Marke and Weer-reyse, to make the water to runne in our ditches, round about the walles and Bulwarkes of the Towne, to drowne by such meanes the Camp of the Enemies.</p>
+            <p>On the 27. of this month, came a Conuoy of S'Hertogen-bosh by the waye of Boxtell in the Enemies Campe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, after it had long beene stayed, and many times beene beaten backe by the Forces of Count <hi>Henry</hi> of <hi>Nassaw,</hi> when it was go<g ref="char:EOLhyphen"/>ing the right way to the Spanish Camp, and euen at this they were compelled to throw many things from their Waggons, that they might make more speed, fearing to be surprised. When it came in the Camp, the horse and their men were both so wea<g ref="char:EOLhyphen"/>ry, that they could hardly stand any longer vpon their legges.</p>
+            <p>In the night time betwixt the 1. and 2. day of December came 15. persons in the Towne, hauing past through the works of the Enemies, &amp; brought letters with them, to shewe how that on the 4. day of the same month, there was by the order of the States, a generall day appointed of fasting and prayers, as likewise to giue vs to vnderstand, how that the States had commanded, that on euery Wednesday, as long as the siedge of this Towne should last, there should be both Sermons and prayers made to beseech the Almightie, that hee would be pleased to raise the siedge, and take away the sickenesse, and plagues by which he visited the Vnited Prouinces.</p>
+            <pb n="23" facs="tcp:177606:13"/>
+            <p>On the forth day of this month was a great fir<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the Quarter of the enemies, which lyeth abou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Bauel, and lasted about two houres, the winde be then Southwest: It burnt all the Cabins of two Regiments that were come from Tetteringen, and were there quartered.</p>
+            <p>On the 7. of this month, about the euening, sal<g ref="char:EOLhyphen"/>lied the English forth out of their Quarter, and de<g ref="char:EOLhyphen"/>molished two sconces which the Enemies had rai<g ref="char:EOLhyphen"/>sed about Tetteringen, and they (the English) car<g ref="char:EOLhyphen"/>ried afterwards the wood which was in them, into their Quarter.</p>
+            <p>On the 9. of December, fetcht the Magistrates, &amp; some Captaines and Burgers that were appointed to such purpose, all the Come out of the Burgers houses, and carried it to the places that were there<g ref="char:EOLhyphen"/>unto chosen by the Magistrates.</p>
+            <p>On the 10. of this month, the Moon being full, &amp; a spring tide, there was a rumor spread throughout all the Towne, that the Prince of <hi>Orange</hi> was resol<g ref="char:EOLhyphen"/>ued to relieue the Towne with victuals, by meanes of some flat-bottome Boats; and this was the rather belieued, seeing that diuers Turfe-ships, &amp; other Boats, were made ready and prouided both with Water-men, Shippers, Souldiers, and Ordinance, and appointed to goe downe by the Riuer: As like<g ref="char:EOLhyphen"/>wise, by reason that many souldiers, both horse &amp; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oote, were commaunded to martch out of the towne.</p>
+            <p>About the same time, gathered the Enemies
+<pb n="24" facs="tcp:177606:14"/> likewise many souldiers in the great Parke, &amp; stood diuers nights in armes, but there was nothing done.</p>
+            <p>In the night time betwixt the 12 and 13. of this month▪ discharged the Enemies <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oure Cannon-shot vpon this towne.</p>
+            <p>On the 14. of this month, we ceased to stop any longer the Riuer without the towne, perceiuing that we could doe no good by the staying of the water, in regard that the Riuer grew daily deeper &amp; deeper through the violence of the streame, &amp; strength of the water, notwithstāding that our dam was made strong, both with Piles, Earth, and Dung.</p>
+            <p>But on the 16. of this month, there was giuen order that the Dikes which lye betwixt the towne &amp; a place called in Dutch <hi>De streen beeren,</hi> that is to say, the B<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ies o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> stone should be made both thic<g ref="char:EOLhyphen"/>ker and higher.</p>
+            <p>On the same day, after dinner time, sallied some souldiers, forth out of the Low Country Quarter, and tooke a sconce of the Enemies, which they had raised about a place which is called <hi>De keysers Mue<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en,</hi> that is to say, the Emperours Mill, and demo<g ref="char:EOLhyphen"/>lished it.</p>
+            <p>On the 24. of this month, was here concluded by the Counsell of warne, that euery 14. daies there should be ki<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 8. Be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for euery Quarter, and 12 other Beasts, both for the Burgers and the horse, &amp; that each pound should be solde at three Stiuers
+<pb n="25" facs="tcp:177606:14"/> and a halfe: as likewise that euery weeke there should be solde 8. bagges of the Salt, that is in the Store-house or Magusin.</p>
+            <p>On the same day before noone, discharged the enemies some Cannon-shot frō his workes that are raised at Ter-Hage vpon this towne, but whether it was by reason that it was Christmas Eue, or to giue some token, we could not learne.</p>
+            <p>When the 27. of this month came, the Enemies had besiedged this town for the space of 4. months, and they had beene aboue fiue months in the land of Breda.</p>
+            <p>Here with ending this yeare, wee will pray the Almighty, that he will send vs a happy and pros<g ref="char:EOLhyphen"/>perous new yeare.</p>
+            <p>
+               <hi>It is to be obserued, that a Guilder of the Low-Countries was vsed to amount to two Shillings sterling. Twenty Stiuers makes a Guilder, and eight Duyts make a Stiuer.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:177606:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
